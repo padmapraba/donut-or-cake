@@ -10,6 +10,9 @@ The input was then normalized as it is a requirement to using pre-trained Xcepti
 The top layer was then trained and then tested with random images.
 
 Bibliography:
+
   https://keras.io/examples/vision/image_classification_from_scratch/
+  
   https://keras.io/guides/transfer_learning/#an-endtoend-example-finetuning-an-image-classification-model-on-a-cats-vs-dogs-dataset
+  
   https://www.kaggle.com/kmader/food41
