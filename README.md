@@ -1,5 +1,5 @@
 # donut-or-cake
-Image classifier that predict is a given image is a doughnut or a chocolate cake
+Image classifier that predicts if an image is a doughnut or a chocolate cake
 
 For this implemenntation of an Image Classifier the Keras API was used to implemennt the the deep learning models.
 The data set of images were obtained from a public dataset on Kaggle. 1000 images of donuts and chocolate cake was used with a 80-20 split.
